@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_footer_menu">
+    <sn_ex_sp_footer_menu action="INSERT_OR_UPDATE">
+        <footer display_value="Cathay Footer Demo">dbc3394e970baa10fc1cf4ef9153af93</footer>
+        <link_type>navigation_links</link_type>
+        <menu display_value="Cathay Leadership">bd46b542974baa10fc1cf4ef9153affa</menu>
+        <order>100</order>
+        <sys_class_name>sn_ex_sp_footer_menu</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 13:49:31</sys_created_on>
+        <sys_id>47877d46974baa10fc1cf4ef9153af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sn_ex_sp_footer_menu_47877d46974baa10fc1cf4ef9153af80</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 13:49:31</sys_updated_on>
+    </sn_ex_sp_footer_menu>
+</record_update>

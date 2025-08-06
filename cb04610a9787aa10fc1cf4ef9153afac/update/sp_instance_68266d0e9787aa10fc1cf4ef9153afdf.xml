@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">e0266d0e9787aa10fc1cf4ef9153afda</sp_column>
+        <sp_widget display_value="KB Most Viewed">7d903b52cb30020000f8d856634c9ce3</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:32:26</sys_created_on>
+        <sys_id>68266d0e9787aa10fc1cf4ef9153afdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Most Viewed Articles</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sp_instance_68266d0e9787aa10fc1cf4ef9153afdf</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:32:26</sys_updated_on>
+        <title>Most Viewed Articles</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=68266d0e9787aa10fc1cf4ef9153afdf"/>
+</record_update>

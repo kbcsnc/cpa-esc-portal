@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">c927c2239747aa10fc1cf4ef9153af69</sp_column>
+        <sp_widget display_value="Popular Topics">70a162c96be07410d70bc141ee44afba</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 06:47:32</sys_created_on>
+        <sys_id>1527c2239747aa10fc1cf4ef9153af6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sp_instance_1527c2239747aa10fc1cf4ef9153af6f</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 06:47:32</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"widget_title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"topic_limit": {
+		"value": "8",
+		"displayValue": "8"
+	},
+	"display_size": {
+		"value": "Normal",
+		"displayValue": "Normal"
+	},
+	"border_color": {
+		"value": "Border-tertiary",
+		"displayValue": "Border-tertiary"
+	},
+	"hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=1527c2239747aa10fc1cf4ef9153af6f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</application>
+        <file_path/>
+        <instance_id>62cb0508db73f41052cec59705961900</instance_id>
+        <instance_name>demon</instance_name>
+        <name>sp_instance_1527c2239747aa10fc1cf4ef9153af6f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;c927c2239747aa10fc1cf4ef9153af69&lt;/sp_column&gt;&lt;sp_widget display_value="Popular Topics"&gt;70a162c96be07410d70bc141ee44afba&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;kb.cheung&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-05 06:47:32&lt;/sys_created_on&gt;&lt;sys_id&gt;1527c2239747aa10fc1cf4ef9153af6f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0"&gt;cb04610a9787aa10fc1cf4ef9153afac&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Cathay Portal"&gt;cb04610a9787aa10fc1cf4ef9153afac&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_1527c2239747aa10fc1cf4ef9153af6f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;kb.cheung&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-05 06:47:32&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"widget_title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"topic_limit": {
+		"value": "8",
+		"displayValue": "8"
+	},
+	"display_size": {
+		"value": "Normal",
+		"displayValue": "Normal"
+	},
+	"border_color": {
+		"value": "Border-tertiary",
+		"displayValue": "Border-tertiary"
+	},
+	"hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1527c2239747aa10fc1cf4ef9153af6f"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1493537622</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cb04610a9787aa10fc1cf4ef9153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 06:47:32</sys_created_on>
+        <sys_id>5527c2239747aa10fc1cf4ef9153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19878fc38510000001</sys_recorded_at>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 06:47:32</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5927c2238347aa102c43f65addef5d70</update_guid>
+        <update_guid_history>5927c2238347aa102c43f65addef5d70:-1493537622</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">36488ee39747aa10fc1cf4ef9153af0d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 06:52:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>cbdb046498c948e8a405286fbfd61a31</sys_id>
+        <sys_metadata>1527c2239747aa10fc1cf4ef9153af6f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_scope_delete display_value="">2dc4c3566891421e928128006d992029</sys_scope_delete>
+        <sys_update_name>sp_instance_1527c2239747aa10fc1cf4ef9153af6f</sys_update_name>
+        <sys_update_version display_value="sp_instance_1527c2239747aa10fc1cf4ef9153af6f">5527c2239747aa10fc1cf4ef9153af71</sys_update_version>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 06:52:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">de55a1ca9787aa10fc1cf4ef9153af23</sp_column>
+        <sp_widget display_value="Quick Links">dae53627530030101865ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:29:00</sys_created_on>
+        <sys_id>5e55a1ca9787aa10fc1cf4ef9153af26</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sp_instance_5e55a1ca9787aa10fc1cf4ef9153af26</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 05:48:27</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"card_type": {
+		"value": "Thumbnail",
+		"displayValue": "Thumbnail"
+	},
+	"card_size": {
+		"value": "Medium",
+		"displayValue": "Medium"
+	},
+	"text_alignment": {
+		"value": "Center",
+		"displayValue": "Center"
+	},
+	"show_icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_background": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon_background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"quick_links": {
+		"value": "f4c7316397c3aa10fc1cf4ef9153af57",
+		"displayValue": "Request Duty Travel"
+	},
+	"show_text_overlay": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"text_overlay_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"text_color": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"text_color_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "async"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=5e55a1ca9787aa10fc1cf4ef9153af26"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</application>
+        <file_path/>
+        <instance_id>62cb0508db73f41052cec59705961900</instance_id>
+        <instance_name>demon</instance_name>
+        <name>sp_instance_5e55a1ca9787aa10fc1cf4ef9153af26</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;de55a1ca9787aa10fc1cf4ef9153af23&lt;/sp_column&gt;&lt;sp_widget display_value="Quick Links"&gt;dae53627530030101865ddeeff7b12be&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;kb.cheung&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-07-31 12:29:00&lt;/sys_created_on&gt;&lt;sys_id&gt;5e55a1ca9787aa10fc1cf4ef9153af26&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0"&gt;cb04610a9787aa10fc1cf4ef9153afac&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Cathay Portal"&gt;cb04610a9787aa10fc1cf4ef9153afac&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_5e55a1ca9787aa10fc1cf4ef9153af26&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;kb.cheung&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-05 05:48:27&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"card_type": {
+		"value": "Thumbnail",
+		"displayValue": "Thumbnail"
+	},
+	"card_size": {
+		"value": "Medium",
+		"displayValue": "Medium"
+	},
+	"text_alignment": {
+		"value": "Center",
+		"displayValue": "Center"
+	},
+	"show_icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_background": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon_background_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"quick_links": {
+		"value": "f4c7316397c3aa10fc1cf4ef9153af57",
+		"displayValue": "Request Duty Travel"
+	},
+	"show_text_overlay": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"text_overlay_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"text_color": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"text_color_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "async"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5e55a1ca9787aa10fc1cf4ef9153af26"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-607066905</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cb04610a9787aa10fc1cf4ef9153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 05:48:27</sys_created_on>
+        <sys_id>7799396797c3aa10fc1cf4ef9153af28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19878c620e40000001</sys_recorded_at>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 05:48:27</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>3f99396708c3aa107525903458056627</update_guid>
+        <update_guid_history>3f99396708c3aa107525903458056627:-607066905,e2487163c8c3aa10bf0e8d66f940a396:-836060383,1e55a1ca3287aa109abeee2f7e2fc528:237750749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ad4ad6ab97c7aa10fc1cf4ef9153afba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 08:11:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>39244b59bd074b03a63a61e6c30e7169</sys_id>
+        <sys_metadata>5e55a1ca9787aa10fc1cf4ef9153af26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_scope_delete display_value="">2dc4c3566891421e928128006d992029</sys_scope_delete>
+        <sys_update_name>sp_instance_5e55a1ca9787aa10fc1cf4ef9153af26</sys_update_name>
+        <sys_update_version display_value="sp_instance_5e55a1ca9787aa10fc1cf4ef9153af26">7799396797c3aa10fc1cf4ef9153af28</sys_update_version>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 08:11:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

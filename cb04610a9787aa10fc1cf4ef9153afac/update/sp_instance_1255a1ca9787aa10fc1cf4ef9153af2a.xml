@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">de55a1ca9787aa10fc1cf4ef9153af23</sp_column>
+        <sp_widget display_value="Popular Topics">70a162c96be07410d70bc141ee44afba</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:29:00</sys_created_on>
+        <sys_id>1255a1ca9787aa10fc1cf4ef9153af2a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sp_instance_1255a1ca9787aa10fc1cf4ef9153af2a</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 08:11:07</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"widget_title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"topic_limit": {
+		"value": "8",
+		"displayValue": "8"
+	},
+	"display_size": {
+		"value": "Normal",
+		"displayValue": "Normal"
+	},
+	"border_color": {
+		"value": "Border-tertiary",
+		"displayValue": "Border-tertiary"
+	},
+	"hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1255a1ca9787aa10fc1cf4ef9153af2a"/>
+</record_update>

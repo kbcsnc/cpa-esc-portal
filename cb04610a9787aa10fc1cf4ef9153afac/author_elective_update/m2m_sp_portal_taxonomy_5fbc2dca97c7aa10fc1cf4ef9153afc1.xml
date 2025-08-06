@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy">
+    <m2m_sp_portal_taxonomy action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sp_portal display_value="Employee Center">ea446dc69787aa10fc1cf4ef9153af27</sp_portal>
+        <sys_class_name>m2m_sp_portal_taxonomy</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 13:01:17</sys_created_on>
+        <sys_id>5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Center.Employee</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>m2m_sp_portal_taxonomy_5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 13:01:17</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+    </m2m_sp_portal_taxonomy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</application>
+        <file_path/>
+        <instance_id>62cb0508db73f41052cec59705961900</instance_id>
+        <instance_name>demon</instance_name>
+        <name>m2m_sp_portal_taxonomy_5fbc2dca97c7aa10fc1cf4ef9153afc1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy"><m2m_sp_portal_taxonomy action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sp_portal display_value="Employee Center">ea446dc69787aa10fc1cf4ef9153af27</sp_portal><sys_class_name>m2m_sp_portal_taxonomy</sys_class_name><sys_created_by>kb.cheung</sys_created_by><sys_created_on>2025-07-31 13:01:17</sys_created_on><sys_id>5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employee Center.Employee</sys_name><sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package><sys_policy/><sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope><sys_update_name>m2m_sp_portal_taxonomy_5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_update_name><sys_updated_by>kb.cheung</sys_updated_by><sys_updated_on>2025-07-31 13:01:17</sys_updated_on><taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy></m2m_sp_portal_taxonomy></record_update>]]></payload>
+        <payload_hash>-1120633198</payload_hash>
+        <record_name>Employee Center.Employee</record_name>
+        <reverted_from/>
+        <source>cb04610a9787aa10fc1cf4ef9153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 13:01:17</sys_created_on>
+        <sys_id>5bbc614e97c7aa10fc1cf4ef9153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19860929a7e0000001</sys_recorded_at>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 13:01:17</sys_updated_on>
+        <type>Portal Taxonomy</type>
+        <update_guid>5fbc614e26c7aa10a4c7e7195ac7ad76</update_guid>
+        <update_guid_history>5fbc614e26c7aa10a4c7e7195ac7ad76:-1120633198</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Employee Center.Employee">7635065f97c32a10fc1cf4ef9153af3b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-04 12:00:41</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_taxonomy">m2m_sp_portal_taxonomy</sys_db_object>
+        <sys_id>5fcf5ff23b6a48e1952c7a3c0569ff51</sys_id>
+        <sys_metadata>5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Center.Employee</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_scope_delete display_value="">2dc4c3566891421e928128006d992029</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_taxonomy_5fbc2dca97c7aa10fc1cf4ef9153afc1</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_taxonomy_5fbc2dca97c7aa10fc1cf4ef9153afc1">5bbc614e97c7aa10fc1cf4ef9153af77</sys_update_version>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-04 12:00:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

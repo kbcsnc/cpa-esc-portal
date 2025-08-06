@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_footer">
+    <sn_ex_sp_footer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copyright>Copyright © Cathay Pacific Airways Limited 國泰航空有限公司</copyright>
+        <logo>3e77f26797cbaa10fc1cf4ef9153af52</logo>
+        <name>Cathay Footer Demo</name>
+        <organization_content>Cathay Pacific City, 8 Scenic Road, Hong Kong International Airport, Lantau, Hong Kong</organization_content>
+        <portal>ea446dc69787aa10fc1cf4ef9153af27</portal>
+        <sys_class_name>sn_ex_sp_footer</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 13:32:08</sys_created_on>
+        <sys_id>dbc3394e970baa10fc1cf4ef9153af93</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Cathay Footer Demo</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sn_ex_sp_footer_dbc3394e970baa10fc1cf4ef9153af93</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 10:18:43</sys_updated_on>
+    </sn_ex_sp_footer>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>/* fix hidden bottom border issue on focus */&#13;
+.category-widget .category-list .list-group-item:not(:last-child) {&#13;
+	padding-bottom: 1px!important;&#13;
+}&#13;
+</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">cbd6a58e9787aa10fc1cf4ef9153afef</sp_column>
+        <sp_widget display_value="SC Categories">4c03cba0cb11020000f8d856634c9ce1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:35:36</sys_created_on>
+        <sys_id>47d6a58e9787aa10fc1cf4ef9153aff2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog filters</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>sp_instance_47d6a58e9787aa10fc1cf4ef9153aff2</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:35:36</sys_updated_on>
+        <title>Catalog filters</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hide_xs": {
+		"value": true,
+		"displayValue": true
+	},
+	"omit_badges": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"check_can_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"category_layout": {
+		"value": "Nested",
+		"displayValue": "Nested"
+	},
+	"page": {
+		"value": "c221e520b7602300d0ac9277ee11a960",
+		"displayValue": "esc_sc_category"
+	},
+	"number_of_categories_to_load": {
+		"value": 15,
+		"displayValue": "15"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=47d6a58e9787aa10fc1cf4ef9153aff2"/>
+</record_update>

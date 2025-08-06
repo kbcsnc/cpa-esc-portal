@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE">
+        <sp_angular_provider display_value="ecMultilineEllipsisTooltip">4de01d4677d530109033bfeacf5a9992</sp_angular_provider>
+        <sp_widget display_value="Cathay Quick Links">ab59dae797c7aa10fc1cf4ef9153af97</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-05 08:07:09</sys_created_on>
+        <sys_id>e759d62b97c7aa10fc1cf4ef9153af9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ecMultilineEllipsisTooltip.Cathay Quick Links</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_e759d62b97c7aa10fc1cf4ef9153af9c</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-05 08:07:09</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+</record_update>
