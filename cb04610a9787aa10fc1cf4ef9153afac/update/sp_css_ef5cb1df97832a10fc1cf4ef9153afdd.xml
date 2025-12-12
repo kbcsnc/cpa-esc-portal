@@ -16,7 +16,7 @@
 &#13;
 .navbar-inverse .navbar-header .navbar-nav &gt; li &gt; a:hover {&#13;
   border-radius: 0rem !important;&#13;
-  border-bottom: 5px solid #145765 !important;&#13;
+  border-bottom: 5px solid #2C4035 !important;&#13;
   background-color: #F1F4F1 !important;&#13;
   color: #343d47 !important;&#13;
 }&#13;
@@ -45,48 +45,48 @@ div[widget=widget] section.show-bounding-box &gt; .panel.b, div[widget=widget] s
 .employee-center-navigation .navigation-menu-item:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .employee-center-navigation .navigation-menu-item.selected-item {&#13;
   color: #ffffff !important;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .employee-center-navigation .simple-list li:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .employee-center-navigation .mega-menu .mega-menu__items .sub-topics-container .level-one-item .level-one-topic-name:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .employee-center-navigation .mega-menu .mega-menu__items .sub-topics-container .level-one-item .sub-topic-groups .sub-topics-list .level-two-topic-name:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .employee-center-navigation .mega-menu .mega-menu__items .quick-links-container a:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .navbar-inverse .navbar-nav &gt; li &gt; a:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .navbar-inverse .navbar-nav .open .dropdown-menu &gt; li &gt; a:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .navbar-inverse .navbar-header.nav-container .sub-navbar-overflow-entry-button .icon-bar {&#13;
@@ -96,19 +96,19 @@ div[widget=widget] section.show-bounding-box &gt; .panel.b, div[widget=widget] s
 .employee-center-navigation .navigation--xs .mobile-main-menu .mobile-navigation-menu-item:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .navbar-inverse .navbar-header .mobile-view-on-desktop .mobile-view-navbar li.user-name &gt; a:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 .navbar-inverse .navbar-header .mobile-view-on-desktop .mobile-view-navbar .main-header-items &gt; li &gt; a:hover, .navbar-inverse .navbar-header .mobile-view-on-desktop .mobile-view-navbar .main-header-items &gt; ul &gt; li &gt; a:hover {&#13;
   color: #FFF !important;&#13;
   cursor: pointer;&#13;
-  background-color: #145765 !important;&#13;
+  background-color: #2C4035 !important;&#13;
 }&#13;
 &#13;
 /* Footer Customisation */&#13;
@@ -258,7 +258,7 @@ div[widget=widget] &gt; .panel.b &gt; .panel-heading, div[widget=widget] &gt; .p
 &#13;
 /* Quick Links Customisation */&#13;
 .vab59dae797c7aa10fc1cf4ef9153af97 .content-container {&#13;
-  background-color: rgba(43,64,54, 0.7) !important;&#13;
+  background-color: rgba(43,64,54, 1) !important;&#13;
 }&#13;
 &#13;
 .vdae53627530030101865ddeeff7b12be .text-color-black {&#13;
@@ -436,20 +436,32 @@ div[widget=widget] &gt; .panel.b &gt; .panel-heading, div[widget=widget] &gt; .p
 &#13;
 .vca5aa9c697c7aa10fc1cf4ef9153affd .scrub-footer .sf-main .sf-links-container .sf-group .sf-link a {&#13;
 	color: #fff !important;&#13;
+}&#13;
+&#13;
+.vab59dae797c7aa10fc1cf4ef9153af97 .card-thumbnail-align-center.card-medium {&#13;
+    min-height: 20rem !important;&#13;
+}&#13;
+&#13;
+.vab59dae797c7aa10fc1cf4ef9153af97 .card-thumbnail-align-center .icon-container {&#13;
+    min-height: 15rem !important;&#13;
+}&#13;
+&#13;
+.vab59dae797c7aa10fc1cf4ef9153af97 .content-container {&#13;
+    padding: 1.2rem 1.6rem .8rem !important;&#13;
 }</css>
         <name>ec-cathay</name>
         <sys_class_name>sp_css</sys_class_name>
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-08-04 11:22:09</sys_created_on>
         <sys_id>ef5cb1df97832a10fc1cf4ef9153afdd</sys_id>
-        <sys_mod_count>45</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_name>ec-cathay</sys_name>
         <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
         <sys_update_name>sp_css_ef5cb1df97832a10fc1cf4ef9153afdd</sys_update_name>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-08-05 11:23:17</sys_updated_on>
+        <sys_updated_on>2025-08-12 06:10:57</sys_updated_on>
         <turn_off_scss_compilation>false</turn_off_scss_compilation>
     </sp_css>
 </record_update>

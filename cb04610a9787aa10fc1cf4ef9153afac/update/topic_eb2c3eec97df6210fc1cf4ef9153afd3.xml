@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <available_for/>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <enable_user_criteria_check>false</enable_user_criteria_check>
+        <icon>ff2c3eec97df6210fc1cf4ef9153afe2</icon>
+        <icon_url/>
+        <name>WiFi</name>
+        <not_available_for/>
+        <order>100</order>
+        <parent_topic display_value="Network">e32c3eec97df6210fc1cf4ef9153afcc</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>eb2c3eec97df6210fc1cf4ef9153afd3</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>WiFi</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>topic_eb2c3eec97df6210fc1cf4ef9153afd3</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:40:57</sys_updated_on>
+        <taxonomy display_value="Cathay">6f2c32ec97df6210fc1cf4ef9153af0c</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>IT Hub services / Network / WiFi</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=eb2c3eec97df6210fc1cf4ef9153afd3"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>7527f1824bf25a83e2ed081bc292e176fa66af3dcf1b4adef5f06e7aa756bf96</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4462</size_bytes>
+        <size_compressed>2035</size_compressed>
+        <state>pending</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>ff2c3eec97df6210fc1cf4ef9153afe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:13:12</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>eb2c3eec97df6210fc1cf4ef9153afd3</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="ff2c3eec97df6210fc1cf4ef9153afe2">ff2c3eec97df6210fc1cf4ef9153afe2</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>fb2c3eec97df6210fc1cf4ef9153afe3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2700</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="ff2c3eec97df6210fc1cf4ef9153afe2">ff2c3eec97df6210fc1cf4ef9153afe2</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>7f2c3eec97df6210fc1cf4ef9153afe3</sys_id>
+    </sys_attachment_doc>
+</record_update>

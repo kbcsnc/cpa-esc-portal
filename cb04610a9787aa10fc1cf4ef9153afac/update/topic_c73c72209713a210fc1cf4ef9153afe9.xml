@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <available_for/>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <enable_user_criteria_check>false</enable_user_criteria_check>
+        <icon>c33c72209713a210fc1cf4ef9153afec</icon>
+        <icon_url/>
+        <name>Child and dependent care</name>
+        <not_available_for/>
+        <order>400</order>
+        <parent_topic display_value="Benefits">fa3c72209713a210fc1cf4ef9153afd8</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:25</sys_created_on>
+        <sys_id>c73c72209713a210fc1cf4ef9153afe9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Child and dependent care</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>topic_c73c72209713a210fc1cf4ef9153afe9</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:40:51</sys_updated_on>
+        <taxonomy display_value="Cathay">6f2c32ec97df6210fc1cf4ef9153af0c</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>People services / Benefits / Child and dependent care</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=c73c72209713a210fc1cf4ef9153afe9"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>ea5233a584c667045c1aebfc226d7c9f1c203d15715d0cd95f80d52a60b6a59b</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3674</size_bytes>
+        <size_compressed>1686</size_compressed>
+        <state>pending</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:25</sys_created_on>
+        <sys_id>c33c72209713a210fc1cf4ef9153afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:13:25</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>c73c72209713a210fc1cf4ef9153afe9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="c33c72209713a210fc1cf4ef9153afec">c33c72209713a210fc1cf4ef9153afec</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:25</sys_created_on>
+        <sys_id>cf3c72209713a210fc1cf4ef9153afec</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2236</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="c33c72209713a210fc1cf4ef9153afec">c33c72209713a210fc1cf4ef9153afec</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:25</sys_created_on>
+        <sys_id>433c72209713a210fc1cf4ef9153afed</sys_id>
+    </sys_attachment_doc>
+</record_update>

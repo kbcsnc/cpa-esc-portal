@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <available_for/>
+        <banner_image/>
+        <banner_image_url/>
+        <description>Conducting our business ethically and legally</description>
+        <enable_user_criteria_check>false</enable_user_criteria_check>
+        <icon>633cf2209713a210fc1cf4ef9153af45</icon>
+        <icon_url/>
+        <name>Ethics and compliance</name>
+        <not_available_for/>
+        <order>300</order>
+        <parent_topic display_value="Legal services">a33cf2209713a210fc1cf4ef9153af39</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:28</sys_created_on>
+        <sys_id>273cf2209713a210fc1cf4ef9153af42</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Ethics and compliance</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>topic_273cf2209713a210fc1cf4ef9153af42</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:15:05</sys_updated_on>
+        <taxonomy display_value="Cathay">6f2c32ec97df6210fc1cf4ef9153af0c</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Legal services / Ethics and compliance</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=273cf2209713a210fc1cf4ef9153af42"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>7159c7380cca3400d8c5543f1d7d4e1df2d5b1d19aba24da6dec10062f0ad2c0</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4358</size_bytes>
+        <size_compressed>1675</size_compressed>
+        <state>pending</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:28</sys_created_on>
+        <sys_id>633cf2209713a210fc1cf4ef9153af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:13:28</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>273cf2209713a210fc1cf4ef9153af42</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="633cf2209713a210fc1cf4ef9153af45">633cf2209713a210fc1cf4ef9153af45</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:28</sys_created_on>
+        <sys_id>ef3cf2209713a210fc1cf4ef9153af45</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2220</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="633cf2209713a210fc1cf4ef9153af45">633cf2209713a210fc1cf4ef9153af45</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:28</sys_created_on>
+        <sys_id>6f3cf2209713a210fc1cf4ef9153af45</sys_id>
+    </sys_attachment_doc>
+</record_update>

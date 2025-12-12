@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <available_for/>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <enable_user_criteria_check>false</enable_user_criteria_check>
+        <icon>3b2c3eec97df6210fc1cf4ef9153aff5</icon>
+        <icon_url/>
+        <name>VPN</name>
+        <not_available_for/>
+        <order>200</order>
+        <parent_topic display_value="Network">e32c3eec97df6210fc1cf4ef9153afcc</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>3f2c3eec97df6210fc1cf4ef9153aff2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>VPN</sys_name>
+        <sys_package display_value="Cathay Portal" source="x_snc_cathay_por_0">cb04610a9787aa10fc1cf4ef9153afac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cathay Portal">cb04610a9787aa10fc1cf4ef9153afac</sys_scope>
+        <sys_update_name>topic_3f2c3eec97df6210fc1cf4ef9153aff2</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:40:57</sys_updated_on>
+        <taxonomy display_value="Cathay">6f2c32ec97df6210fc1cf4ef9153af0c</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>IT Hub services / Network / VPN</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f2c3eec97df6210fc1cf4ef9153aff2"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>f143ef177cb24c2cd5424b5f14fa0917c75c1fcaa54f2bc9157b592470718524</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2210</size_bytes>
+        <size_compressed>937</size_compressed>
+        <state>pending</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>3b2c3eec97df6210fc1cf4ef9153aff5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-08 13:13:12</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>3f2c3eec97df6210fc1cf4ef9153aff2</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="3b2c3eec97df6210fc1cf4ef9153aff5">3b2c3eec97df6210fc1cf4ef9153aff5</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>372c3eec97df6210fc1cf4ef9153aff6</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>xVZNcxs3DL3nV3A251IkPkgiE2Wm3o4nh+SqQ26dWrU049qeRLXy8/vA/Upy9KUXLUFigQe8B67ef3u5D9fz3eW0H7QM4XQ8358u0/rlfLzePH3fDymkoCX43t/nh4f98Pj0eBzC938eHr/th9Pl8vxut7ter/HK8enr/Y5SSjsEHj68ef/85+UU7vbDZ2pRVHNoUWvmNsKm3BQ255Q1UI215Z9sFbHNX6NU1ZBTbFo4ZIvVUg2ZozFZyBSrwh/nknIdYUvm7DZxIpz3o0o6Lxu8D4xnSQLvwDUm0xZyibXkHEQis5kDaYUtSI1iOY+wTXNzW3MJqCNJox/MzCWv3mxI36xHEw/qeYhV+jIfZiAjrAWecNRWbEUOm0TzWhmXSMl4rRw1KBzWzvzS6S8La9fT+XIcdgspvvnb138fjvvh+HJ8fLq7G8JfD+fnX/ecPLSHSuSS6v/fMQDRlNg7xuCcAWB5Bc8mWbaQFM2yjGtGjikXCSugzZ4Az/5LQT3epB2kUit9OXdi7evbUcffx5vXdZZaMAid2FzhWl3BGegwGVC4JVe6oEqGzX5USMtGAgeoQSlBHRWDU3tNggFCD4KUKM1s5BaLUS9fQBie/laBRHwFDU5RXVjQVV0TIouQC28GtGH98hlNaAm+6GRKnWLhyjAx/GAEHddCdbMtZiu8uHOOiaggnOWCrrqk2TMRouZOXLWini5V0xHIa6luJ0ogTHxZWqsWFuH7MOcRFtRSbRJFI3JfXDRoq49FMsT28YCri0QAEbZSq10EihJ+sNWSrf4QRXYMPV5ymjxVkSp9OTGyzjO2FoQoipg28JhbSrwV5zdZEVuLJ4lWEXVpzs+t3mTHxiOPr5Mdp94PpHUusuF69wsYtEPpnlFaKn2po/86H6lfNeQ9pK4vyq7ZfuAbsrr5Ukf/nQOhpJZE1hxUlvQHxngik0RV4v6C1BrYPwD4/UiYC5vOuiJXz748zFG2phjf/HF7++pZJBp9vAUfDvLiA/FsaS9JHSHY97NYUu4lgcUw3Uqzaow/0SSo1jIqRBWH2fqEagQOi+OIlrK1ssTxVHOGnnX03wUDFKX4MDgyh4op5I6KvfO4AYujmp6puyQPj6tMfIM3N+7vdSJiYYTE9Ua5fzpSA79TMnzGyfmBxQpMUlwA0xMp8Fb5SNU10AzXs+/p6ulL8DNFAUR83esan7bMvYSNP7pFhbnz538hPrz5D07+XyGiCAAA</data>
+        <length>1236</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="3b2c3eec97df6210fc1cf4ef9153aff5">3b2c3eec97df6210fc1cf4ef9153aff5</sys_attachment>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-08 13:13:12</sys_created_on>
+        <sys_id>b72c3eec97df6210fc1cf4ef9153aff6</sys_id>
+    </sys_attachment_doc>
+</record_update>
